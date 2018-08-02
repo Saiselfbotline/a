@@ -31,8 +31,8 @@ git add .
 ```
 8. then commit
 ```shell
-git commit -m "arsybai"
-nb. "arsybai" bisa diubah sesuai selera kalian
+git commit -m "adit"
+nb. "adit" bisa diubah sesuai selera kalian
 ```
 9. Push it to heroku
 ```shell
